@@ -50,9 +50,6 @@
     box-shadow: 0px 0px 10px 3px #ccc;
     transition: 2s;
 }
-h2{
-    text-align: center;
-}
 .transactionHash{ 
     text-align: center;
 }
